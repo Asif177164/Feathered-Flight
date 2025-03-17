@@ -63,7 +63,7 @@ Open the project in Visual Studio 2013
 
 ## Project Contributors
 
-1. Asif Raiyan
+1. Asif Rayan
 2. Atia Fairuz
 3. Sifat
 
